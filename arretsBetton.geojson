@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "arretsBetton",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "ap_timeo": "2406", "ap_type": "mobilier", "ap_nom": "Betton Centre", "ap_insee": "35024", "desserte": "51 71 78 83", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Oui", "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.637898117060033, 48.181122678650958 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "2407", "ap_type": "mobilier", "ap_nom": "Haye Renaud Gare", "ap_insee": "35024", "desserte": "51", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Non", "poubelle": "Oui", "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.634935844296464, 48.180209559779108 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "2416", "ap_type": "mobilier", "ap_nom": "Haye Renaud Gare", "ap_insee": "35024", "desserte": "51", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Oui", "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.634708084960596, 48.180198274596549 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "2417", "ap_type": "mobilier", "ap_nom": "Betton Centre", "ap_insee": "35024", "desserte": "51 71", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Non", "poubelle": "Oui", "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.638457292657469, 48.181747248536453 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "2432", "ap_type": "mobilier", "ap_nom": "J. Sébastien Bach", "ap_insee": "35024", "desserte": "51 71", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Oui", "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.633356031230825, 48.186271291496496 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "2434", "ap_type": "mobilier", "ap_nom": "J. Sébastien Bach", "ap_insee": "35024", "desserte": "51 71", "acces_pmr": "Oui", "mobilier": "Poteau", "banc": "Non", "eclairage": "Non", "poubelle": "Non", "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.633091605911398, 48.18644070539289 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "2437", "ap_type": "mobilier", "ap_nom": "Betton Centre", "ap_insee": "35024", "desserte": "51 78 83 178", "acces_pmr": "Oui", "mobilier": "Abri simple", "banc": "Oui", "eclairage": "Oui", "poubelle": "Oui", "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.639271413317717, 48.181619561455825 ] } },
+{ "type": "Feature", "properties": { "ap_timeo": "2461", "ap_type": "mobilier", "ap_nom": "La Haute Plesse", "ap_insee": "35024", "desserte": "78 178", "acces_pmr": "Oui", "mobilier": "Poteau", "banc": null, "eclairage": null, "poubelle": null, "ap_attract": 400 }, "geometry": { "type": "Point", "coordinates": [ -1.627749, 48.180113 ] } }
+]
+}
